@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d023e12f-7876-4c98-9863-8315384310bf" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="135" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="LunchOrderTest.givenBreadNotSet_whenBreadIsSet_CorrectBreadIsReturned" />
+      <run-configuration type="JUnit" name="LunchOrderTest.givenDressingNotSet_whenSet_CorrectCondimentIsReturned" />
+    </enabled-run-configurations>
+  </component>
+  <component name="ProjectId" id="1QpMeiBvmZklhSDNmZM5D2tymZt" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.General" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.company" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.com.company in Builder-Lunch-Order (1)">
+    <configuration name="LunchOrderTest.givenBreadNotSet_whenBreadIsSet_CorrectBreadIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Builder-Lunch-Order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.LunchOrderTest" />
+      <option name="METHOD_NAME" value="givenBreadNotSet_whenBreadIsSet_CorrectBreadIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LunchOrderTest.givenDressingNotSet_whenSet_CorrectCondimentIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Builder-Lunch-Order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.LunchOrderTest" />
+      <option name="METHOD_NAME" value="givenDressingNotSet_whenSet_CorrectCondimentIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LunchOrderTest.givenLunchOrder_whenAllTypesOrdered_CorrectOrderIsCorrect" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Builder-Lunch-Order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.LunchOrderTest" />
+      <option name="METHOD_NAME" value="givenLunchOrder_whenAllTypesOrdered_CorrectOrderIsCorrect" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LunchOrderTest.givenMeatNotSet_whenSet_CorrectMeatIsReturned" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Builder-Lunch-Order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="com.company.LunchOrderTest" />
+      <option name="METHOD_NAME" value="givenMeatNotSet_whenSet_CorrectMeatIsReturned" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Whole project" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <extension name="coverage" track_test_folders="true">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="PARAMETERS" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.company in Builder-Lunch-Order" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Builder-Lunch-Order" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.company" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.Whole project" />
+      <item itemvalue="JUnit.com.company in Builder-Lunch-Order (1)" />
+      <item itemvalue="JUnit.LunchOrderTest.givenBreadNotSet_whenBreadIsSet_CorrectBreadIsReturned" />
+      <item itemvalue="JUnit.LunchOrderTest.givenDressingNotSet_whenSet_CorrectCondimentIsReturned" />
+      <item itemvalue="JUnit.LunchOrderTest.givenMeatNotSet_whenSet_CorrectMeatIsReturned" />
+      <item itemvalue="JUnit.LunchOrderTest.givenLunchOrder_whenAllTypesOrdered_CorrectOrderIsCorrect" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.company in Builder-Lunch-Order (1)" />
+        <item itemvalue="JUnit.LunchOrderTest.givenLunchOrder_whenAllTypesOrdered_CorrectOrderIsCorrect" />
+        <item itemvalue="JUnit.LunchOrderTest.givenMeatNotSet_whenSet_CorrectMeatIsReturned" />
+        <item itemvalue="JUnit.LunchOrderTest.givenDressingNotSet_whenSet_CorrectCondimentIsReturned" />
+        <item itemvalue="JUnit.LunchOrderTest.givenBreadNotSet_whenBreadIsSet_CorrectBreadIsReturned" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d023e12f-7876-4c98-9863-8315384310bf" name="Default Changelist" comment="" />
+      <created>1568463182082</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568463182082</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Builder_Lunch_Order$com_company_in_Builder_Lunch_Order__1_.ic" NAME="com.company in Builder-Lunch-Order (1) Coverage Results" MODIFIED="1568475459792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Builder_Lunch_Order$com_company_in_Builder_Lunch_Order.ic" NAME="com.company in Builder-Lunch-Order Coverage Results" MODIFIED="1568489973596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.company.*</FILTER>
+    </SUITE>
+  </component>
+</project>
